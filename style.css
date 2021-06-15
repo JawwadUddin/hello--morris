@@ -1,3 +1,4 @@
 body {
-    background-color: aquamarine;
+    background-image:linear-gradient(to right, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url('https://image.shutterstock.com/image-vector/pink-purple-twilight-mountains-realistic-260nw-1054767581.jpg');
+    background-size: cover;
 }
